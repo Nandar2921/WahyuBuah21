@@ -1,0 +1,114 @@
+{
+  "products": {
+    "1": {
+      "foto": "WhatsApp Image 2026-03-03 at 09.51.44.jpeg",
+      "nama": "Apel Fuji",
+      "harga": 28000,
+      "desc": "Apel merah segar, kulit mengilap, manis renyah",
+      "kategori": "import",
+      "rating": 4.8,
+      "stock": 45,
+      "totalBeli": 156
+    },
+    "2": {
+      "foto": "WhatsApp Image 2026-03-03 at 13.34.39.jpeg",
+      "nama": "Pisang Ambon",
+      "harga": 18000,
+      "desc": "Pisang lokal manis, tekstur legit, wangi khas",
+      "kategori": "lokal",
+      "rating": 4.9,
+      "stock": 78,
+      "totalBeli": 203
+    },
+    "3": {
+      "foto": "https://images.pexels.com/photos/327098/pexels-photo-327098.jpeg",
+      "nama": "Jeruk Medan",
+      "harga": 22000,
+      "desc": "Jeruk manis, banyak air, vitamin C tinggi",
+      "kategori": "lokal",
+      "rating": 4.7,
+      "stock": 52,
+      "totalBeli": 189
+    },
+    "4": {
+      "foto": "WhatsApp Image 2026-03-03 at 13.34.39 (1).jpeg",
+      "nama": "Anggur Merah",
+      "harga": 45000,
+      "desc": "Anggur impor seedless, crispy, manis",
+      "kategori": "import",
+      "rating": 4.9,
+      "stock": 34,
+      "totalBeli": 312
+    },
+    "5": {
+      "foto": "WhatsApp Image 2026-03-03 at 13.34.38.jpeg",
+      "nama": "Mangga Harum Manis",
+      "harga": 30000,
+      "desc": "Mangga harum manis, daging tebal, serat halus",
+      "kategori": "lokal",
+      "rating": 5.0,
+      "stock": 23,
+      "totalBeli": 278
+    },
+    "6": {
+      "foto": "WhatsApp Image 2026-03-03 at 13.34.39 (2).jpeg",
+      "nama": "Melon",
+      "harga": 35000,
+      "desc": "Melon fresh, hijau segar, manis segar",
+      "kategori": "organik",
+      "rating": 4.8,
+      "stock": 31,
+      "totalBeli": 145
+    },
+    "7": {
+      "foto": "WhatsApp Image 2026-03-03 at 13.48.41.jpeg",
+      "nama": "Semangka",
+      "harga": 15000,
+      "desc": "Semangka merah ranum, berair, manis",
+      "kategori": "lokal",
+      "rating": 4.6,
+      "stock": 89,
+      "totalBeli": 267
+    },
+    "8": {
+      "foto": "WhatsApp Image 2026-03-03 at 13.34.38 (2).jpeg",
+      "nama": "Alpukat ",
+      "harga": 27000,
+      "desc": "Alpukat mentega, lembut, cocok jus",
+      "kategori": "lokal",
+      "rating": 4.9,
+      "stock": 42,
+      "totalBeli": 198
+    },
+    "9": {
+      "foto": "WhatsApp Image 2026-03-03 at 09.51.43.jpeg",
+      "nama": "Buah Naga",
+      "harga": 42000,
+      "desc": "Buah Naga, manis, kaya vitamin C",
+      "kategori": "import",
+      "rating": 4.8,
+      "stock": 27,
+      "totalBeli": 134
+    },
+    "10": {
+      "foto": "WhatsApp Image 2026-03-03 at 13.34.38 (1).jpeg",
+      "nama": "Nanas Madu",
+      "harga": 20000,
+      "desc": "Nanas madu, manis tanpa serat",
+      "kategori": "lokal",
+      "rating": 4.7,
+      "stock": 53,
+      "totalBeli": 156
+    },
+    "11": {
+      "foto": "WhatsApp Image 2026-03-03 at 13.34.37 (1).jpeg",
+      "nama": "Timun Suri",
+      "harga": 8000,
+      "desc": "Timun suri segar, cocok untuk es buah atau rujak",
+      "kategori": "lokal",
+      "rating": 4.5,
+      "stock": 100,
+      "totalBeli": 45
+    }
+  }
+}
